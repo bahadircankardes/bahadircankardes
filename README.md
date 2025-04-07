@@ -6,9 +6,6 @@ Welcome to my GitHub profile! I'm on an exciting journey to become a Full Stack 
 
 🚀 Keep scrolling to learn more about what I'm currently working on, what I'm learning, and how we can collaborate!
 
-
-🚀 Şu anda neler üzerinde çalıştığımı, neler öğrendiğimi ve nasıl iş birliği yapabileceğimizi görmek için kaydırmaya devam edin!
-
 <h1 align="center">Hi 👋, I'm Bahadir Can KARDES</h1>
 <h3 align="center">A passionate Front-End | Back-End | React | React Native Developer from Turkey</h3>
 
