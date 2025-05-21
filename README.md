@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm on an exciting journey to become a Full Stack 
 
 - 👯 I’m looking to collaborate on **innovative web and mobile applications.**
 
-- 📫 How to reach me **kardes126@gmail.com**
+- 📫 How to reach me **kardesbahadircan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
